@@ -1,1 +1,2 @@
-# my-chess-clone
+# My Chess Clone
+
