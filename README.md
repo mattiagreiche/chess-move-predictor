@@ -1,2 +1,3 @@
-# My Chess Clone
+# Chess Move Predictor
 
+Work in progress. See repo description.
